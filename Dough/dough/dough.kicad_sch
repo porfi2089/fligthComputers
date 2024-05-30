@@ -1,0 +1,133 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4fefffc5-b577-4f4a-9ede-53ada2aa57cf")
+	(paper "A4")
+	(title_block
+		(title "Dough fligth computer ")
+		(date "2024-05-01")
+		(rev "V0.1")
+		(company "RPDev")
+	)
+	(lib_symbols)
+	(sheet
+		(at 38.735 19.685)
+		(size 64.135 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "08c9ad00-8b9f-403f-bc65-de9bd24649a1")
+		(property "Sheetname" "power managment"
+			(at 38.735 18.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power managment.kicad_sch"
+			(at 38.735 54.5596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dough"
+				(path "/4fefffc5-b577-4f4a-9ede-53ada2aa57cf"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 20.32)
+		(size 84.455 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "22e4c3eb-dc28-4f86-950b-d0bb031ef536")
+		(property "Sheetname" "ESP 32 section"
+			(at 118.11 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32 section.kicad_sch"
+			(at 118.11 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dough"
+				(path "/4fefffc5-b577-4f4a-9ede-53ada2aa57cf"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 69.215)
+		(size 67.945 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ead411db-855b-49b3-973c-12a7f8331e1f")
+		(property "Sheetname" "RP2040 section"
+			(at 38.1 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rp2040 section.kicad_sch"
+			(at 38.1 109.1696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dough"
+				(path "/4fefffc5-b577-4f4a-9ede-53ada2aa57cf"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
