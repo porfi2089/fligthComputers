@@ -9793,6 +9793,28 @@
 			)
 		)
 	)
+	(global_label "ADC2"
+		(shape input)
+		(at 33.02 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "469eb99d-fd4f-4f73-a4c2-aca47f40c772")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.8433 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED_G"
 		(shape input)
 		(at 184.785 31.115 180)
