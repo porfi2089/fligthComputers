@@ -1,4 +1,4 @@
-23348288450821109
+23353460420331646
 10-UFDNF
 10-UFDNF(2.5mm-1mm)
 TDFN, 8 Pin (https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -20,6 +20,27 @@ CONN_25SH-B-04-TS_ADM
 0
 4
 4
+ATA6561_GAQW
+SOIC8_4P9X3P9MC_MCH
+
+ATA6561-GAQW-N 
+0
+8
+8
+ATA6561_GAQW
+SOIC8_4P9X3P9MC_MCH-L
+
+ATA6561-GAQW-N 
+0
+8
+8
+ATA6561_GAQW
+SOIC8_4P9X3P9MC_MCH-M
+
+ATA6561-GAQW-N 
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
